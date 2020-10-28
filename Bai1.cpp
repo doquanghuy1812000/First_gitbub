@@ -12,4 +12,5 @@ int main() {
 	A = (pow(x, 3) + sin(b) - exp(0.19238)) / (5 + exp(b) + pow(c , 0.202345 + x));
 	printf("Ket qua: %.5f", A);
 	printf("anh đi tìm");
+	printf("em cung d tim");
 }
